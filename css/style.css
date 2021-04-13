@@ -42,8 +42,8 @@ li {
 
 /* Hero */
 .heroImg{
-    height: 950px;
-    padding: 25px;
+    height: 750px;
+    padding: 1px;
     text-align: center;
 }
 
@@ -51,11 +51,6 @@ img {
     max-width: 50%;
     height: auto;
     border-radius: 24px;
-}
-
-.content{
-   /*width: 500px;   this makes the content iteself only 500px wide*/   
-    margin: 0 auto;
 }
 
 /* Footer */
